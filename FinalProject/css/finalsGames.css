@@ -53,6 +53,33 @@
     color: white;
   }
 
+  .dropdown-readme {
+    margin:10px;
+    flex: 1;
+    text-align: left;
+    font-size: 16px;
+  }
+  
+  .dropdown-readme {
+    flex: 0 0 auto;
+    margin-left: 10px;
+  }
+  
+  .dropdown-readme a {
+    display: block;
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .dropdown-readme a:hover {
+    background-color: blue;
+    color: white;
+  }
+
 body {
     background-image: url('../media/background.jpeg');
     font-family: 'Games', sans-serif;

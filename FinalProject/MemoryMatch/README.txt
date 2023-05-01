@@ -1,4 +1,4 @@
-Memory Match Game
+README.TXT - Memory Match Game
 
 Purpose:
 The purpose of this game is to match pairs of cards with the same image. The game is designed to improve memory and concentration skills, and is suitable for players of all ages.
